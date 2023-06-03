@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I like Gym, Programming, Technology, finance, self improvement and games.
+## I like Gym, Programming, Technology, finance, self improvement and books.
 
 <!--
 **Neptuuno/Neptuuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
